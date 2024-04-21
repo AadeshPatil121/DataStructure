@@ -1,5 +1,4 @@
 
-
 def move_to_pos(pos) :
     """ pos = 10  position = [5,5]"""
     ques = pos // 4
