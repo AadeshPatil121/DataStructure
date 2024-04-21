@@ -1,7 +1,7 @@
 # making an knight :
 import pygame
 pygame.init()
-import knight_helper
+import workspace.knight_helper as knight_helper
 
 screen = pygame.display.set_mode((401,301))
 rects = []
